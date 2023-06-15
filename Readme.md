@@ -8,9 +8,7 @@ This is the code challenge for SDET's at Plotly.
 * Clone the repo
 * Ensure Node.js (for `npm` commands) is installed
 * Install required packages for the repo 
-    * _Currently only playwright and eslint_
-    * `npm install <package-name>`
-    * `npm install -D @playwright/test`
+    * Run `npm install` from source folder "playwrightPlotly"
 
 ### Run Modes:
 UI (My Favourite):
