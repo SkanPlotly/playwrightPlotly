@@ -1,0 +1,25 @@
+{
+  "name": "playwrightplotly",
+  "version": "1.0.0",
+  "description": "Start",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkanPlotly/playwrightPlotly.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SkanPlotly/playwrightPlotly/issues"
+  },
+  "homepage": "https://github.com/SkanPlotly/playwrightPlotly#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.35.0",
+    "@types/jest": "^29.5.1"
+  },
+  "dependencies": {
+    "eslint": "^8.42.0"
+  }
+}
